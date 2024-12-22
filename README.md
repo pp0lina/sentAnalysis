@@ -10,18 +10,18 @@ This project implements a **sentiment analysis system** designed to classify mov
 1.   **Data Collection**: The data used for training the model was sourced from Kaggle <https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews>
 2.   **Preprocessing**:
 
--   Conversion to lowercase
--   Removal of stop words
--   Lemmatization
--   Tokenization
+      -   Conversion to lowercase
+      -   Removal of stop words
+      -   Lemmatization
+      -   Tokenization
 
 3.   **Machine Learning Model**:
 
--   The DistilBERT model was used for tokenization. After this, it was trained on three datasets of different sizes. The metrics for each model were extracted.
+      -   The DistilBERT model was used for tokenization. After this, it was trained on three datasets of different sizes. The metrics for each model were extracted.
 
 4.   **Evaluation Metrics used**:
 
--   Accuracy, Precision, Recall, F1-Score, Confusion Matrices
+      -   Accuracy, Precision, Recall, F1-Score, Confusion Matrices
 
 
 ## Requirements
@@ -29,12 +29,12 @@ This project implements a **sentiment analysis system** designed to classify mov
 1.   Python 3.8+
 2.  Essential Libraries:
 
--   **pandas**
--   **numpy**
--   **scikit-learn**
--   **nltk:** For text preprocessing
--   **transformers** and **torch**: For using DistilBERT 🤗
--   **beautifulsoup4** and **requests**: For web scraping
+      -   **pandas**
+      -   **numpy**
+      -   **scikit-learn**
+      -   **nltk:** For text preprocessing
+      -   **transformers** and **torch**: For using DistilBERT 🤗
+      -   **beautifulsoup4** and **requests**: For web scraping
 
 ---
 Install dependencies using the **requirements.txt** file:
