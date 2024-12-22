@@ -33,12 +33,12 @@ This project implements a **sentiment analysis system** designed to classify mov
 -   **numpy**
 -   **scikit-learn**
 -   **nltk:** For text preprocessing
--   **transformers** and **torch**: For using DistilBERT
+-   **transformers** and **torch**: For using DistilBERT 🤗
 -   **beautifulsoup4** and **requests**: For web scraping
 
 ---
 Install dependencies using the **requirements.txt** file:
-```
+```bash
 pip install -r requirements.txt
 ```
 ---
@@ -48,6 +48,6 @@ The code in the Model.ipynb file allows adding a link to the film reviews. It th
 
 * * * * *
 
-**Contribution**
+**Contribution** 📩
 
 Feel free to contribute and submit a pull request if you notice any issues or have some improvements!
