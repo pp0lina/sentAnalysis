@@ -50,4 +50,4 @@ The code in the Model.ipynb file allows adding a link to the film reviews. It th
 
 **Contribution** 📩
 
-Feel free to contribute and submit a pull request if you notice any issues or have some improvements!
+Feel free to contribute and submit a pull request if you notice any issues or have some improvements.
