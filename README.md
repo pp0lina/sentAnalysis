@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **sentiment analysis system** designed to classify movie reviews as either **positive** or **negative**. Various NLP techniques were used to preprocess text data, train models, and evaluate performance.
+This project implements a **sentiment analysis system** designed to classify movie reviews as either positive or negative. Various NLP techniques were used to preprocess text data, train models, and evaluate performance.
 
 
 ## Features
